@@ -1,7 +1,7 @@
 # Byju's Learning Analytics Dashboard
 
 ## Project Overview
-This project is an interactive Microsoft Excel dashboard built to analyze student learning performance, course completion, quiz scores, and revenue. The dataset was cleaned and transformed using Power Query before creating the dashboard.
+This project is an interactive Microsoft Excel dashboard built to analyze student learning performance, course completion, quiz scores, and revenue. The dataset was cleaned and transformed using Power Query before creating two diffirent type of dashboard.
 
 ## Tools Used
 - Microsoft Excel
